@@ -116,7 +116,7 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 If you didn't do App Academy Open in Tier 0, please consider doing it as your Specialization in this Tier.
 
 | Courses                                                                                                                                                                                                |   Status   |   Evidence   |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-started-------: | :----------: |
 | [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                               |            |              |
 | [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2)                                                                                          |            |              |
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                       |            |              |
